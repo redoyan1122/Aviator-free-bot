@@ -1,0 +1,2 @@
+# Aviator-free-bot
+Free
